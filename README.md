@@ -35,11 +35,11 @@
     <td width="52%" valign="top">
       <h4>📌 About Me</h4>
       <ul>
-        <li>🎓 <b>Mathematics Graduate</b> (Minor in Big Data & ML) from Institut Teknologi Sepuluh Nopember (ITS)[cite: 1].</li>
-        <li>🧠 <b>Data Science & AI:</b> Specialized in NLP, LLMs, RAG, Computer Vision, and AI Agents[cite: 1]. Developed resource-efficient Automated Essay Scoring systems[cite: 1].</li>
-        <li>💻 <b>Full-Stack AI Solutions:</b> Building end-to-end applications using MERN stack (React, Node.js, Express, MongoDB) integrated with AI/LLM models[cite: 1].</li>
-        <li>🌏 Experience across <b>KADA</b>, <b>Bangkit Academy</b>, <b>PT TASPEN</b>, and <b>Shibaura Institute of Technology (Japan)</b>[cite: 1].</li>
-        <li>✉️ Reach me: <a href="mailto:ariantobm16@gmail.com">ariantobm16@gmail.com</a>[cite: 1]</li>
+        <li>🎓 <b>Mathematics Graduate</b> (Minor in Big Data & ML) from Institut Teknologi Sepuluh Nopember (ITS).</li>
+        <li>🧠 <b>Data Science & AI:</b> Specialized in NLP, LLMs, RAG, Computer Vision, and AI Agents. Developed resource-efficient Automated Essay Scoring systems.</li>
+        <li>💻 <b>Full-Stack AI Solutions:</b> Building end-to-end applications using MERN stack (React, Node.js, Express, MongoDB) integrated with AI/LLM models.</li>
+        <li>🌏 Experience across <b>KADA</b>, <b>Bangkit Academy</b>, <b>PT TASPEN</b>, and <b>Shibaura Institute of Technology (Japan)</b>.</li>
+        <li>✉️ Reach me: <a href="mailto:ariantobm16@gmail.com">ariantobm16@gmail.com</a></li>
       </ul>
     </td>
   </tr>
@@ -80,23 +80,26 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/arianto31">Bank Customer Churn Prediction</a></b><br/>
-      End-to-end ML pipeline with SMOTE, Stratified K-Fold, XGBoost, LightGBM, and SHAP interpretability to identify critical churn drivers[cite: 1].
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/superstore-sales-analysis">Superstore sales analysis</a></b><br/>Exploratory Data Analysis (EDA) and business insights on Superstore sales data, covering sales performance, profitability, customer segmentation, regional analysis, discount impact, and shipping efficiency.
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/arianto31">Career Chatbot AI</a></b><br/>
-      LLM-powered interactive career assistant using PyPDF context ingestion, Groq API, Gradio, and Pushover API with function calling capabilities[cite: 1].
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/Customer-Churn">Bank Customer Churn Prediction</a></b><br/>
+      End-to-end ML pipeline with SMOTE, Stratified K-Fold, XGBoost, LightGBM, and SHAP interpretability to identify critical churn drivers.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Personal%20Career%20Chatbot">Career Chatbot AI</a></b><br/>
+      LLM-powered interactive career assistant using PyPDF context ingestion, Groq API, Gradio, and Pushover API with function calling capabilities.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/arianto31">AI Crop Disease Detector</a></b><br/>
-      Agricultural AI application built with TensorFlow & Scikit-learn achieving 90% prediction accuracy (Bangkit Capstone)[cite: 1].
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/HeloTani-capstone">AI Crop Disease Detector</a></b><br/>
+      Agricultural AI application built with TensorFlow & Scikit-learn achieving 90% prediction accuracy (Bangkit Capstone).
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/arianto31">Insurance OCR Automation</a></b><br/>
-      Python-based OCR solution for automated data extraction and workflow integration at PT TASPEN (Persero)[cite: 1].
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Shipping%20Tracker">Chatbot Shipping Tracker</a></b><br/>
+      An AI-powered customer support assistant for shipping companies. This project combines Streamlit for the UI, Groq for high-speed reasoning, and a SQL database for order management.
     </td>
   </tr>
 </table>
