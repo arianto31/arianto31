@@ -136,13 +136,6 @@
   <a href="https://github.com/arianto31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## 🎧 Spotify
-<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zi4noxkvzf1opwugkmn65era1&count=5&unique=false&width=500" alt="Spotify recently played"/>
-  </a>
-</div>
-
 <!-- ====== FOOTER WAVE ====== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF007F,40:7F00FF,100:00E5FF" width="100%"/>
