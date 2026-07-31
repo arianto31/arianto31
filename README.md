@@ -39,7 +39,6 @@
         <li>🧠 <b>Data Science & AI:</b> Specialized in NLP, LLMs, RAG, Computer Vision, and AI Agents. Developed resource-efficient Automated Essay Scoring systems.</li>
         <li>💻 <b>Full-Stack AI Solutions:</b> Building end-to-end applications using MERN stack (React, Node.js, Express, MongoDB) integrated with AI/LLM models.</li>
         <li>🌏 Experience across <b>KADA</b>, <b>Bangkit Academy</b>, <b>PT TASPEN</b>, and <b>Shibaura Institute of Technology (Japan)</b>.</li>
-        <li>✉️ Reach me: <a href="mailto:ariantobm16@gmail.com">ariantobm16@gmail.com</a></li>
       </ul>
     </td>
   </tr>
