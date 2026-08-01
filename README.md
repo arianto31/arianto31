@@ -16,7 +16,7 @@
 </p>
 
 <h2 align="center">
-  <samp>👋 Hi, I'm <b><a href="https://github.com/arianto31">Arianto Maran</a></b></samp>
+  <samp>👋 Hi, I'm <b><a href="https://arianto-maran.vercel.app/">Arianto Maran</a></b></samp>
 </h2>
 
 <p align="center">
