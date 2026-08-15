@@ -30,7 +30,7 @@
 <table width="100%">
   <tr>
     <td width="48%" align="center" valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+      <img src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" width="100%" alt="HiTechNavigation" />
     </td>
     <td width="52%" valign="top">
       <h4>📌 About Me</h4>
@@ -106,7 +106,7 @@
 <!-- ====== GIF 2 ====== -->
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/ViratiAkiraNandhanReddy/pixel-art-readme-gifs/main/gifs/hrzn/4ae82f6a-58bc-4555-b187-0e36d5c7f727.gif" width="500" alt="Pixel Art Horizon Animation" />
+  <img src="https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f" width="100%" alt="MultitaskingGod" />
   <br/>
 </div>
 
