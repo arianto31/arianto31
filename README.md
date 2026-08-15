@@ -30,7 +30,7 @@
 <table width="100%">
   <tr>
     <td width="48%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ViratiAkiraNandhanReddy/pixel-art-readme-gifs/main/gifs/hrzn/365cfaf1-c31d-468b-b276-8c39756b5951.gif" width="100%" alt="Pixel Art Ambience" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
     </td>
     <td width="52%" valign="top">
       <h4>📌 About Me</h4>
@@ -115,8 +115,8 @@
 ## 📈 Activity & GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arianto31&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arianto31&theme=tokyo-night&hide_border=false" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="165" />
 </div>
 
 <p align="center">
@@ -125,7 +125,7 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arianto31/arianto31/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/arianto31/arianto31/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
