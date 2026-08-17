@@ -125,7 +125,7 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arianto31/arianto31/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/arianto31/arianto31/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
