@@ -39,6 +39,7 @@
         <li>🧠 <b>Data Science & AI:</b> Specialized in NLP, LLMs, RAG, Computer Vision, and AI Agents. Developed resource-efficient Automated Essay Scoring systems.</li>
         <li>💻 <b>Full-Stack AI Solutions:</b> Building end-to-end applications using MERN stack (React, Node.js, Express, MongoDB) integrated with AI/LLM models.</li>
         <li>🌏 Experience across <b>KADA</b>, <b>Bangkit Academy</b>, <b>PT TASPEN</b>, and <b>Shibaura Institute of Technology (Japan)</b>.</li>
+        <li>✉️ Reach me: <a href="mailto:ariantobm16@gmail.com">ariantobm16@gmail.com</a></li>
       </ul>
     </td>
   </tr>
@@ -85,17 +86,30 @@
     <td width="33%" valign="top">
       <b><a href="https://github.com/arianto31/Customer-Churn">Bank Customer Churn Prediction</a></b><br/>
       End-to-end ML pipeline with SMOTE, Stratified K-Fold, XGBoost, LightGBM, and SHAP interpretability to identify critical churn drivers.
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/superstore-sales-analysis">Superstore sales analysis</a></b><br/>Exploratory Data Analysis (EDA) and business insights on Superstore sales data, covering sales performance, profitability, customer segmentation, regional analysis, discount impact, and shipping efficiency.
     </td>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Personal%20Career%20Chatbot">Career Chatbot AI</a></b><br/>
-      LLM-powered interactive career assistant using PyPDF context ingestion, Groq API, Gradio, and Pushover API with function calling capabilities.
+      <b><a href="https://github.com/arianto31/Customer-Churn">Bank Customer Churn Prediction</a></b><br/>
+      End-to-end ML pipeline with SMOTE, Stratified K-Fold, XGBoost, LightGBM, and SHAP interpretability to identify critical churn drivers.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/FMCG-Analysis">FMCG Sales, Inventory & Pricing Analysis</a></b><br/>
+      Commercial analysis of a 190k+ record FMCG dataset using Python and Power BI to evaluate demand trends, stockout revenue leakage, and promotional volume lift.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Personal%20Career%20Chatbot">Career Chatbot AI</a></b><br/>
+      LLM-powered interactive career assistant using PyPDF context ingestion, Groq API, Gradio, and Pushover API with function calling capabilities.
+    </td>
+    <td width="33%" valign="top">
       <b><a href="https://github.com/HeloTani-capstone">AI Crop Disease Detector</a></b><br/>
       Agricultural AI application built with TensorFlow & Scikit-learn achieving 90% prediction accuracy (Bangkit Capstone).
     </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Shipping%20Tracker">Chatbot Shipping Tracker</a></b><br/>
+      An AI-powered customer support assistant for shipping companies. This project combines Streamlit for the UI, Groq for high-speed reasoning, and a SQL database for order management.
     <td width="33%" valign="top">
       <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Shipping%20Tracker">Chatbot Shipping Tracker</a></b><br/>
       An AI-powered customer support assistant for shipping companies. This project combines Streamlit for the UI, Groq for high-speed reasoning, and a SQL database for order management.
