@@ -86,12 +86,6 @@
     <td width="33%" valign="top">
       <b><a href="https://github.com/arianto31/Customer-Churn">Bank Customer Churn Prediction</a></b><br/>
       End-to-end ML pipeline with SMOTE, Stratified K-Fold, XGBoost, LightGBM, and SHAP interpretability to identify critical churn drivers.
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/arianto31/superstore-sales-analysis">Superstore sales analysis</a></b><br/>Exploratory Data Analysis (EDA) and business insights on Superstore sales data, covering sales performance, profitability, customer segmentation, regional analysis, discount impact, and shipping efficiency.
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/arianto31/Customer-Churn">Bank Customer Churn Prediction</a></b><br/>
-      End-to-end ML pipeline with SMOTE, Stratified K-Fold, XGBoost, LightGBM, and SHAP interpretability to identify critical churn drivers.
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/arianto31/FMCG-Analysis">FMCG Sales, Inventory & Pricing Analysis</a></b><br/>
@@ -110,10 +104,6 @@
     <td width="33%" valign="top">
       <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Shipping%20Tracker">Chatbot Shipping Tracker</a></b><br/>
       An AI-powered customer support assistant for shipping companies. This project combines Streamlit for the UI, Groq for high-speed reasoning, and a SQL database for order management.
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/arianto31/Agen-AI/tree/main/Shipping%20Tracker">Chatbot Shipping Tracker</a></b><br/>
-      An AI-powered customer support assistant for shipping companies. This project combines Streamlit for the UI, Groq for high-speed reasoning, and a SQL database for order management.
-    </td>
   </tr>
 </table>
 
