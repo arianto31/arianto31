@@ -4,7 +4,7 @@
   &color=0:00E5FF,40:7F00FF,100:FF007F
   &text=Arianto%20Maran
   &fontSize=44&fontAlign=50&fontAlignY=34
-  &desc=Full-Stack%20Developer%20%7C%20AI%20Engineer
+  &desc=Data%20Science%20%7C%20Data%20Analyst%20%7C%20AI%20Engineer
   &descAlign=50&descAlignY=62" width="100%" />
 </div>
 
@@ -119,8 +119,8 @@
 ## 📈 Activity & GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianto31&theme=tokyonight" height="150" alt="GitHub Summary" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="GitHub Summary" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="150" />
 </div>
 
 <div align="center">

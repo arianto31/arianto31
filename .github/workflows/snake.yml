@@ -2,8 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Berjalan otomatis setiap 24 jam (pukul 00:00 UTC)
-    - cron: "0 0 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
   push:
     branches:
