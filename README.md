@@ -1,11 +1,6 @@
 <!-- ====== TOP WAVE BANNER ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&animation=twinkling
-  &color=0:00E5FF,40:7F00FF,100:FF007F
-  &text=Arianto%20Maran
-  &fontSize=44&fontAlign=50&fontAlignY=34
-  &desc=Data%20Science%20%7C%20Data%20Analyst%20%7C%20AI%20Engineer
-  &descAlign=50&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&animation=twinkling&color=0:00E5FF,40:7F00FF,100:FF007F&text=Arianto%20Maran&fontSize=44&fontAlign=50&fontAlignY=34&desc=Data%20Science%20%7C%20Data%20Analyst%20%7C%20AI%20Engineer&descAlign=50&descAlignY=62" width="100%" />
 </div>
 
 <!-- ====== VISITOR COUNTER & HEADER ====== -->
