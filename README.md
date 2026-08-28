@@ -119,13 +119,13 @@
 ## 📈 Activity & GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arianto31&theme=tokyo-night&hide_border=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianto31&theme=tokyonight" height="150" alt="GitHub Summary" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="165" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arianto31&theme=tokyonight&hide_border=false" height="165"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arianto31&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
 
 ### 🐍 Contribution Snake
 <div align="center">
