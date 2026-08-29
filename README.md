@@ -114,12 +114,12 @@
 ## 📈 Activity & GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="GitHub Summary" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=arianto31&layout=compact&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianto31&layout=compact&theme=tokyonight" style="border: 1.5px solid #7aa2f7; border-radius: 10px;" height="150" alt="GitHub Summary" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=arianto31&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&v=1" style="border: 1.5px solid #7aa2f7; border-radius: 10px;" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=arianto31&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=arianto31&theme=tokyonight&hide_border=true" style="border: 1.5px solid #7aa2f7; border-radius: 10px;" height="150" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Snake
