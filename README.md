@@ -73,7 +73,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
     <td width="33%" valign="top">
